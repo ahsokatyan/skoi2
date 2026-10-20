@@ -1,0 +1,25 @@
+{
+  "video": "my_video.mov",
+  "frames": 777,
+  "fps_input": 29.961439588688947,
+  "width": 464,
+  "height": 848,
+  "roi": [
+    8,
+    39,
+    453,
+    717
+  ],
+  "template_keypoints": 1083,
+  "found_frames": 777,
+  "found_percent": 100.0,
+  "sift_frames": 723,
+  "flow_frames": 54,
+  "mean_ms": 88.1433274131336,
+  "median_ms": 83.74430000003485,
+  "processing_fps": 11.345158270607755,
+  "total_loop_seconds": 80.05890129999989,
+  "opencv": "4.12.0",
+  "ratio": 0.75,
+  "min_matches": 12
+}

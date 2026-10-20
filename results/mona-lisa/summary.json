@@ -1,0 +1,25 @@
+{
+  "video": "mona-lisa.avi",
+  "frames": 558,
+  "fps_input": 29.97,
+  "width": 640,
+  "height": 360,
+  "roi": [
+    0,
+    0,
+    640,
+    360
+  ],
+  "template_keypoints": 847,
+  "found_frames": 558,
+  "found_percent": 100.0,
+  "sift_frames": 213,
+  "flow_frames": 345,
+  "mean_ms": 105.63373984409223,
+  "median_ms": 103.12028550004015,
+  "processing_fps": 9.46667231015325,
+  "total_loop_seconds": 60.12683243400011,
+  "opencv": "4.12.0",
+  "ratio": 0.75,
+  "min_matches": 12
+}

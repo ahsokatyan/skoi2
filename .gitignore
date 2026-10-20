@@ -1,0 +1,8 @@
+__pycache__/
+.venv/
+output/
+output_*/
+videos/my_video.*
+CODE_EXPLANATION.md
+DEFENSE.md
+RUNBOOK.md

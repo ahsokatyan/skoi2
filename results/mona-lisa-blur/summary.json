@@ -1,0 +1,25 @@
+{
+  "video": "mona-lisa-blur.avi",
+  "frames": 558,
+  "fps_input": 29.97,
+  "width": 640,
+  "height": 360,
+  "roi": [
+    0,
+    0,
+    640,
+    360
+  ],
+  "template_keypoints": 847,
+  "found_frames": 539,
+  "found_percent": 96.59498207885305,
+  "sift_frames": 191,
+  "flow_frames": 348,
+  "mean_ms": 98.80152926881908,
+  "median_ms": 96.52905900009046,
+  "processing_fps": 10.121300828038818,
+  "total_loop_seconds": 56.260066842000015,
+  "opencv": "4.12.0",
+  "ratio": 0.75,
+  "min_matches": 12
+}
